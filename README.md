@@ -13,3 +13,5 @@ Today I built a simple **Counter App** using JavaScript to practice:
 - 🔁 Auto reset after saving  
 
 This small project helped me understand how JavaScript interacts with HTML elements and dynamically updates the webpage.
+## Demo
+https://counter-miniapp.netlify.app/
